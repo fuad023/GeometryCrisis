@@ -1,0 +1,5 @@
+cd bin && game.exe && cd ..
+
+g++ -I"include" src\*.cpp -o bin\game  -mwindows -lopengl32 -lglu32 -lglut32 -lwinmm -L"lib"
+
+hint - you will 32-bit C++ compiler, not suitable for 64-bit one.
