@@ -1,0 +1,9 @@
+Window 1366 768 60 1
+
+
+         SR   CR    S   FR   FG   FB   OR   OG   OB   OT    V
+Player   18   18    5   49   49   49  255    0    0  2.5    8
+                 SMIN SMAX   OR   OG   OB   OT VMIN VMAX    L   SI       
+Enemy    16   16    2    4  255  255  255  1.5    3    7   32   64
+                                                                 L  SI
+Bullet    4    4   20  255  255  255  255  255  255    2   20   48  20
